@@ -3,7 +3,7 @@
 > A high-fidelity Next.js recreation of [enterprise.accredian.com](https://enterprise.accredian.com/), built as part of a Full Stack Developer Internship assignment.
 
 **Live Demo:** - https://accredian-enterprise-clone-jet.vercel.app/
-**GitHub:**-
+**GitHub:**-https://github.com/Ashraf1028-shekh/ACCREDIAN-ENTERPRISE-CLONE
 
 ---
 
